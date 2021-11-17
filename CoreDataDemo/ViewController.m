@@ -1,10 +1,4 @@
-//
-//  ViewController.m
-//  CoreDataDemo
-//
-//  Created by Jerry.Yang on 2020/4/20.
-//  Copyright © 2020 Jerry.Yang. All rights reserved.
-//
+
 
 #import "ViewController.h"
 
@@ -87,7 +81,6 @@
         NSLog(@"添加成功");
     }
 }
-
 
 #pragma mark 3.查询数据
 //NSPredicate(谓词)是一个Foundation的类，它指定数据被获取或者过滤的方式。它的语言就像SQL的where和正则表达式的交叉一样。提供了具有表现力的，自然语言界面来定义一个集合。（被搜索的逻辑条件）
